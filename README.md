@@ -12,3 +12,13 @@ According to the data from Airbnb in 2016 to 2017, we can find the insight from 
 #### The approach:
 Some visualization and statistic methods will be provided to answer the questions. 
 A linear regression model is also estiblished to predict the review scores from the guests. 
+
+#### Outcome:
+- The busiest visiting season is summer.
+- The most type of property provided in Seattle is House.
+- The highest review score of the property is Yurt.
+- The accommodates and bedrooms have a positive correlation with price.
+- The type of property and whether the super host or not have stronger relationships with review scores.
+
+
+Source: https://www.kaggle.com/airbnb/seattle/data
