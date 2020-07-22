@@ -20,5 +20,6 @@ A linear regression model is also estiblished to predict the review scores from 
 - The accommodates and bedrooms have a positive correlation with price.
 - The type of property and whether the super host or not have stronger relationships with review scores.
 
+More details on Medium: https://medium.com/@chris.liou007/be-an-airbnb-host-in-seattle-f36ebc621388
 
-Source: https://www.kaggle.com/airbnb/seattle/data
+Data source: https://www.kaggle.com/airbnb/seattle/data
