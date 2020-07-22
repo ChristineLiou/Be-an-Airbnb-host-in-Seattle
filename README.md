@@ -29,5 +29,5 @@ Based on this analysis, we can figure out a few insights:
 
 You can view more details on my [Medium](https://medium.com/@chris.liou007/be-an-airbnb-host-in-seattle-f36ebc621388)
 
-#### Reference
+#### Reference:
 Data source from [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
