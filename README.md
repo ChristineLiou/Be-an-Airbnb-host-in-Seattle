@@ -12,8 +12,15 @@ According to the data from Airbnb in 2016 to 2017, we can find the insight from 
 #### The approach:
 Some visualization and statistic methods will be provided to answer the questions. 
 A linear regression model is also estiblished to predict the review scores from the guests. 
+The main libraries used in this project is pandas and sklearn. 
 
-#### Summary:
+#### File description:
+There are two csv data in data file:
+- calendar.csv: It is included listing id and the price and availability for that day
+- Listings.csv: It is inclused full descriptions and average review score for each host.
+
+#### Results:
+Based on this analysis, we can figure out a few insights:
 - The busiest visiting season is summer.
 - The most type of property provided in Seattle is House.
 - The highest review score of the property is Yurt.
