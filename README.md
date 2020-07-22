@@ -16,8 +16,8 @@ The main libraries used in this project is [pandas](https://pandas.pydata.org/pa
 
 #### File description:
 There are two csv data in data file:
-- calendar.csv: It is included listing id and the price and availability for that day
-- Listings.csv: It is inclused full descriptions and average review score for each host.
+- [calendar.csv](https://www.kaggle.com/airbnb/seattle?select=calendar.csv): It is included listing id and the price and availability for that day
+- [Listings.csv](https://www.kaggle.com/airbnb/seattle?select=listings.csv): It is inclused full descriptions and average review score for each host.
 
 #### Results:
 Based on this analysis, we can figure out a few insights:
