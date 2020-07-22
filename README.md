@@ -27,6 +27,7 @@ Based on this analysis, we can figure out a few insights:
 - The accommodates and bedrooms have a positive correlation with price.
 - The type of property and whether the super host or not have stronger relationships with review scores.
 
-More details on my [Medium](https://medium.com/@chris.liou007/be-an-airbnb-host-in-seattle-f36ebc621388)
+You can view more details on my [Medium](https://medium.com/@chris.liou007/be-an-airbnb-host-in-seattle-f36ebc621388)
 
-Data source on [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
+#### Reference
+Data source from [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
