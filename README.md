@@ -12,7 +12,7 @@ According to the data from Airbnb in 2016 to 2017, we can find the insight from 
 #### The approach:
 Some visualization and statistic methods will be provided to answer the questions. 
 A linear regression model is also estiblished to predict the review scores from the guests. 
-The main libraries used in this project is pandas and sklearn. 
+The main libraries used in this project is [pandas](https://pandas.pydata.org/pandas-docs/version/0.15/tutorials.html) and [sklearn](https://scikit-learn.org/stable/). 
 
 #### File description:
 There are two csv data in data file:
@@ -27,6 +27,6 @@ Based on this analysis, we can figure out a few insights:
 - The accommodates and bedrooms have a positive correlation with price.
 - The type of property and whether the super host or not have stronger relationships with review scores.
 
-More details on Medium: https://medium.com/@chris.liou007/be-an-airbnb-host-in-seattle-f36ebc621388
+More details on my [Medium](https://medium.com/@chris.liou007/be-an-airbnb-host-in-seattle-f36ebc621388)
 
-Data source: https://www.kaggle.com/airbnb/seattle/data
+Data source on [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
